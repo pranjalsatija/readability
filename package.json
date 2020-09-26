@@ -32,5 +32,8 @@
     "matcha": "^0.6.0",
     "mocha": "^2.2.*",
     "sinon": "^7.3.2"
+  },
+  "prettier": {
+    "printWidth": 180
   }
 }
